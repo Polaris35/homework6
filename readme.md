@@ -1,6 +1,6 @@
 ## Задание
 
-Сверстать макет [psd](Design_Architecture.psd)
+Сверстать макет [psd](source/Design_Architecture.psd)
 
 #### Технические требования к верстке:
 - Все секции в верхней половине сайта (верхнее меню, `The latest news`, `Most popular posts`) должны быть выполнена используя Flexbox
